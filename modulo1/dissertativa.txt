@@ -1,0 +1,4 @@
+1-Leia do teclado um único algarismo a ser multiplicado por 9 e chame-o de n;
+2-Defina o algarismo das unidades pela operação 10-n e armazene em x;
+3-Defina o algarismo das dezenas pela operação n-1 e multiplique por 10 e some em x;
+4-Apresente na tela o resultado da multiplicação e finalize o programa;

@@ -1,0 +1,6 @@
+1-Início
+2-Leia n;
+3-x = 10-n;
+4-x = x+(n-1)*10;
+5-Imprima x;
+6-Fim
